@@ -1,0 +1,1 @@
+The project concerns development of algorithms for classification of voice. The goal is being able to distinguish between voices from different people.  The theory of pattern classification is used using different approaches of feature extraction, reduction,  Bayesian parameter estimation and multilayer neural networks. All code is written in MATLAB.
